@@ -49,3 +49,6 @@ dist/
 *.tmp
 *.bak
 *.orig
+*.pdf
+*.png
+*.txt
